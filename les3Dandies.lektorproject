@@ -1,5 +1,3 @@
 [project]
 name = les3Dandies
 
-[servers.ghpages]
-target = ghpages+https://les3dandies/les3dandies.github.io
